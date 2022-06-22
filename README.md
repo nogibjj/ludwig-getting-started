@@ -1,7 +1,7 @@
 # ludwig-getting-started
 Declarative ML examples with Ludwig
 
-## Compile Python
+## Compile Python and Create VirtualEnv with It
 
 `sudo apt-get install build-essential gdb lcov libbz2-dev libffi-dev libgdbm-dev liblzma-dev libncurses5-dev libreadline6-dev libsqlite3-dev libssl-dev lzma lzma-dev tk-dev uuid-dev zlib1g-dev`
 
@@ -14,6 +14,12 @@ Declarative ML examples with Ludwig
 `make -j 32`
 
 `make altinstall `
+
+### Create virtualenv and source
+
+`/usr/local/bin/python -m venv ~/.venv`
+
+`vim ~/.bashrc` and add line:  `source ~/.venv/bin/activate`
 
 ## Example of Getting Started
 
