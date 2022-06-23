@@ -26,3 +26,8 @@ Declarative ML examples with Ludwig
 1. `wget https://ludwig-ai.github.io/ludwig-docs/0.5/data/rotten_tomatoes.csv`
 2.  Create yaml file (to train) `rotten_tomatoes.csv`
 3.  Train: `ludwig train --config rotten_tomatoes.yaml --dataset rotten_tomatoes.csv`
+
+## Training on m1ultra studio
+
+`make install-mac`
+`make train-ludwig` finishes in: `    39.21 real       123.35 user        60.05 sys`
