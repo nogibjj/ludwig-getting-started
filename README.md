@@ -31,3 +31,10 @@ Declarative ML examples with Ludwig
 
 `make install-mac`
 `make train-ludwig` finishes in: `    39.21 real       123.35 user        60.05 sys`
+
+## References
+
+* [Watch Walkthrough on YouTube with M1Ultra Mac](https://studio.youtube.com/video/zcw9tKcmwPk/edit?c=UCNDfiL0D1LUeKWAkRE1xO5Q)
+* [O'Reilly:  Training Ludwig Declarative Deep Learning models using Mac Studio M1Ultra](https://learning.oreilly.com/videos/training-ludwig-declarative/06232022VIDEOPAIML/)
+
+
