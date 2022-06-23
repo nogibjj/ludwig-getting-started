@@ -16,6 +16,7 @@ lint:
 	pylint --disable=R,C hello.py
 
 train-ludwig:
+	wget https://ludwig-ai.github.io/ludwig-docs/0.5/data/rotten_tomatoes.csv
 	time ludwig train --config rotten_tomatoes.yaml --dataset rotten_tomatoes.csv
 
 all: install lint test
