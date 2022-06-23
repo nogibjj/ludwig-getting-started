@@ -34,7 +34,7 @@ Declarative ML examples with Ludwig
 
 ## References
 
-* [Watch Walkthrough on YouTube with M1Ultra Mac](https://studio.youtube.com/video/zcw9tKcmwPk/edit?c=UCNDfiL0D1LUeKWAkRE1xO5Q)
+* [Watch Walkthrough on YouTube with M1Ultra Mac](https://youtu.be/zcw9tKcmwPk)
 * [O'Reilly:  Training Ludwig Declarative Deep Learning models using Mac Studio M1Ultra](https://learning.oreilly.com/videos/training-ludwig-declarative/06232022VIDEOPAIML/)
 
 
