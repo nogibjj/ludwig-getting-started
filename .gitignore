@@ -6,6 +6,16 @@ __pycache__/
 # C extensions
 *.so
 
+# ignore ludwig artifacts
+.lock_preprocessing
+.vscode/
+results/
+rotten_tomatoes.meta.json
+rotten_tomatoes.split.csv
+rotten_tomatoes.test.hdf5
+rotten_tomatoes.training.hdf5
+rotten_tomatoes.validation.hdf5
+
 # Distribution / packaging
 .Python
 build/
